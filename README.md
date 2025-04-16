@@ -1,4 +1,4 @@
-# Indian Traffic Sign Detection using YOLOv8
+# Traffic Sign Detection using YOLOv8
 
 This repository contains the code, trained model weights, dataset, and results for detecting various Indian traffic signs using the YOLOv8 object detection model provided by Ultralytics.
 
@@ -57,8 +57,8 @@ The primary goal of this project is to train an accurate object detection model 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Repo-Name].git
-    cd [Your-Repo-Name]
+    git clone https://github.com/[ns-0437]/[Traffic-Signal-Detection].git
+    cd [Traffic-Signal-Detection]
     ```
 
 2.  **Set up environment (Recommended: Virtual Environment):**
