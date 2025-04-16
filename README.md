@@ -12,12 +12,6 @@ This repository contains the code, trained model weights, dataset, and results f
 *   [Setup](#setup)
 *   [Usage](#usage)
     *   [Training](#training)
-    *   [Evaluation](#evaluation)
-    *   [Inference (Prediction)](#inference-prediction)
-*   [Results](#results)
-*   [File Structure](#file-structure)
-*   [License](#license)
-*   [Acknowledgements](#acknowledgements)
 
 ## Project Goal
 
