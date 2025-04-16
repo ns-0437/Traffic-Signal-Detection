@@ -2,7 +2,7 @@
 
 This repository contains the code, trained model weights, dataset, and results for detecting various Indian traffic signs using the YOLOv8 object detection model provided by Ultralytics.
 
-![Sample Detection](runs/detect/predict2/steep_descent-42_jpg.rf.03eacb4185d382fb80ab81597e82b941.jpg)
+
 <!-- Replace the image path above with a link to one of your best sample detection output images -->
 <!-- Or add multiple images: -->
 <!-- ![Sample 1](path/to/sample1.jpg) -->
