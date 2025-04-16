@@ -3,12 +3,6 @@
 This repository contains the code, trained model weights, dataset, and results for detecting various Indian traffic signs using the YOLOv8 object detection model provided by Ultralytics.
 
 
-<!-- Replace the image path above with a link to one of your best sample detection output images -->
-<!-- Or add multiple images: -->
-<!-- ![Sample 1](path/to/sample1.jpg) -->
-<!-- ![Sample 2](path/to/sample2.jpg) -->
-
-
 ## Table of Contents
 
 *   [Project Goal](#project-goal)
@@ -35,7 +29,8 @@ The primary goal of this project is to train an accurate object detection model 
     <!-- Optional: Add link if your dataset version is public on Roboflow -->
     <!-- [Link to Roboflow Dataset](https://app.roboflow.com/...) -->
 *   **Format:** YOLOv8 PyTorch TXT
-*   **Classes:** [Mention the number of traffic sign classes, e.g., 56] classes.
+*   **Classes:** 56 classes.
+
 *   **Contents:** The `datasets2/` folder contains the training, validation, and test splits along with the `data.yaml` configuration file.
 
 ## Model
